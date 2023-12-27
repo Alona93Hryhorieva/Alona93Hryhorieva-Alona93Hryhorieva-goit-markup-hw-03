@@ -1,0 +1,169 @@
+body{ 
+ font-family:"Roboto",sans-serif;
+ font-weight: 400;
+ font-size: 16px;
+ font-style: normal;
+ line-height: 1.5;
+ letter-spacing: 0.02em;
+ color: #434455;
+ background-color:#FFFFFF
+}
+a {
+  text-decoration: none;
+}
+ul,
+ol {
+  list-style: none;
+}
+.header {
+ background-color: #FFFFFF;
+}
+.logo{
+ font-family: "Raleway",sans-serif;
+ font-weight: 700;
+ font-size: 18px;
+ line-height: 1.17;
+ letter-spacing: 0.03em;
+ text-transform: uppercase;
+ color: #4D5AE5;
+ 
+}
+.logo-black{
+ color:#2E2F42 
+}
+.nav-text{
+ color:#2E2F42;
+ font-size: 16px;
+ font-weight: 500;
+ line-height: 1.5;
+ letter-spacing:0.02em ;
+ text-decoration: none;
+}
+.nav-text:hover,
+.nav-text:focus,
+.nav-text:active{
+ color: #404bbf;
+ text-decoration: underline;
+}
+.address{
+ font-style: normal;
+}
+.adress-text{;
+ font-size: 16px;
+ line-height: 1.5;
+ letter-spacing:0.02em;
+ text-decoration: none;
+ color:#434455 ;
+}
+.adress-text:hover,
+.adress-text:focus,
+.adress-text:active{
+ color: #404bbf;
+ text-decoration: underline;
+}
+.title{
+ background-color:#2E2F42 ;
+}
+.page-title{
+ font-size: 56px;
+ letter-spacing: 0.02em;
+ line-height: 1.07;
+ color:#FFF;
+ text-align: center;
+}
+.page-button{
+  cursor:pointer; 
+  color: #FFF;  
+  background-color:#4D5AE5 ;
+ font-family: "Roboto",sans-serif;
+ font-size: 16px;
+ font-weight: 500;
+ line-height: 1.5;
+ letter-spacing: 0.04em;
+}
+.page-button:hover,
+.page-button:focus,
+.page-button:active{
+ background-color: #404bbf;
+}
+.section-title{
+ color: #2E2F42;
+ text-align: center;
+ font-size: 36px;
+ font-weight: 700;
+ line-height: 40px;
+ letter-spacing: 0.72px;
+ text-transform: capitalize;
+}
+.perevagu-title{
+ color: #2E2F42;
+ font-size: 20px;
+ font-weight: 500;
+ line-height: 1.2;
+ letter-spacing: 0.02em;
+}
+.perevagu-text{
+ font-size: 16px;
+ line-height: 1.5;
+ letter-spacing: 0.02em;
+}
+.comanda{
+ background-color: #F4F4FD;
+}
+.comanda-title{
+ color: #2E2F42;
+ text-align: center;
+ font-size: 36px;
+ line-height: 1.11;
+ letter-spacing: 0.02em;
+ text-transform: capitalize;
+}
+.comanda-spisok{
+ background-color: #FFFFFF
+}
+.comanda-name{
+ color:#2E2F42;
+ font-size: 20px;
+ font-weight: 500;
+ line-height: 1.2;
+ letter-spacing: 0.02em;
+}
+.comanda-text{
+color: #434455;
+ font-size: 16px;
+ font-weight: 400;
+ line-height: 1.5;
+ letter-spacing: 0.02em;
+}  
+.portfolio-title{
+ color:#2E2F42;
+ text-align: center;
+ font-size: 36px;
+ line-height: 1.11;
+ letter-spacing: 0.02em;
+ text-transform: capitalize;
+}
+.portfolio-name{
+ color: #2E2F42;
+ font-size: 20px;
+ font-weight: 500;
+ line-height: 1.2;
+ letter-spacing: 0.02em;
+}
+.portfolio-text{
+ font-size: 16px;
+ color: #434455;
+ line-height: 1.5;
+ letter-spacing: 0.02em;
+}
+.footer{
+background-color:#2e2f42;
+}
+.footer-logo{
+color: #f4f4fd;
+}
+.footer-text {
+ color:#F4F4FD ;
+ line-height: 1.5;
+ letter-spacing:0.02em;
+}
