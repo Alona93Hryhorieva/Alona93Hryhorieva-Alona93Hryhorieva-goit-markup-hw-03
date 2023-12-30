@@ -197,7 +197,7 @@ img{
  font-weight: 500;
  line-height: 1.2;
  letter-spacing: 0.02em;
- padding-bottom: 8px;
+ margin-bottom: 8px;
 }
 
 .perevagu-text{
@@ -317,9 +317,12 @@ img{
 }
 
 .footer-logo{
- color: #f4f4fd;
- margin-bottom: 16px;
  display: inline-block;
+ margin-bottom: 16px;
+}
+
+.footer-logo-span{
+ color: #f4f4fd;
 }
 
 .footer-text {
